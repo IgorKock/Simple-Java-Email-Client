@@ -2,7 +2,7 @@
  PT: Cliente simples de Email feito em Java.
  
  EN: Simple Email client made in Java.
- # Aviso/Alert
+ # Aviso/Warning
  PT: Só funciona em contas Google Workspace. 
  
  EN: Only works with Google Workspace accounts
