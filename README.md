@@ -5,7 +5,7 @@
  # Aviso/Warning
  PT: Só funciona em contas Google Workspace. 
  
- EN: Only works with Google Workspace accounts
+ EN: Only works with Google Workspace accounts.
 # Requisitos/Requirements
 PT: OpenJDK 21 ou superior, qualquer IDE Java (IntelliJ ou Eclipse são recomendados), livrarias javax.mail e jakarta.activation.
 
